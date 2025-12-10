@@ -22,7 +22,7 @@
 
 ## Стек
 
-`JavaScript` `React` `TypeScript` `HTML5` `CSS3` `NextJs` `Docker` `Redux` `Git` `Gitlab` `Figma` `MobX` `Material UI` `Webpack` `Английский B2` `Vite` `SCSS` `VueJS` `WebSocket` `CI/CD` `FSD` `REST API`
+`JavaScript` `TypeScript` `HTML5` `CSS3` `React` `NextJs` `VueJS` `MobX` `Redux` `Material UI` `SCSS` `Webpack` `Vite` `FSD` `REST API` `Git` `Gitlab` `Docker` `Figma` `WebSocket` `CI/CD` `Английский B2`
 
 ---
 
