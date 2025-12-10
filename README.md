@@ -20,6 +20,12 @@
 
 ---
 
+## Стек
+
+`JavaScript` `React` `TypeScript` `HTML5` `CSS3` `NextJs` `Docker` `Redux` `Git` `Gitlab` `Figma` `MobX` `Material UI` `Webpack` `Английский B2` `Vite` `SCSS` `VueJS` `WebSocket` `CI/CD` `FSD` `REST API`
+
+---
+
 ## Опыт работы
 
 ### Senior Frontend Developer — Код Грин Инжиниринг
