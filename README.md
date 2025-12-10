@@ -40,7 +40,7 @@
 - Организовал архитектуру, ввёл технические стандарты и внедрил Material UI
 - Разработал основной функционал биржи — торговля, управление и мониторинг фьючерсных контрактов
 
-**Стек:** React, Redux, RTK-Query, TypeScript, SSE, React-Hook-Form, Zod, Vite, Material UI, i18next, TradingView, ESLint, OpenAPI, Docker, CI/CD, FSD
+**Стек:** `React` `Redux` `RTK-Query` `TypeScript` `React-Hook-Form` `Zod` `SSE` `Material UI` `i18next` `TradingView` `Vite` `ESLint` `OpenAPI` `Docker` `CI/CD` `FSD`
 
 ---
 
@@ -57,7 +57,7 @@
 - Реализовал административную панель для управления пользователями и данными через интерактивные таблицы
 - Разработал текстовый редактор статей и систему управления размещением контента в рамках внутренней CMS
 
-**Стек:** React, Redux, TypeScript, Next.js, SCSS, Tailwind, Material UI, WebSocket, MobX, Docker, Webpack, Vite, FSD
+**Стек:** `React` `Redux` `MobX` `TypeScript` `Next.js` `Material UI` `SCSS` `Tailwind` `WebSocket` `Webpack` `Vite` `Docker` `FSD`
 
 ---
 
@@ -77,4 +77,4 @@
 - Мигрировал проект на RTK-Query с устаревшего Redux-Thunk и React-Hook-Form + Zod
 - Внедрил Storybook
 
-**Стек:** React, Redux, RTK-Query, TypeScript, WebSocket, React-Hook-Form + Yup, Webpack, Jest, react-testing-library, Storybook
+**Стек:** `React` `Redux` `RTK-Query` `TypeScript` `React-Hook-Form + Yup` `WebSocket` `Webpack` `Jest` `react-testing-library` `Storybook`
