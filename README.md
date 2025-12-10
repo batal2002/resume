@@ -1,6 +1,6 @@
 # Баталов Богдан Константинович
 
-**Senior Frontend Developer (React/TypeScript)**
+**Frontend Developer**
 
 ---
 
@@ -28,9 +28,9 @@
 
 ## Опыт работы
 
-### Senior Frontend Developer — Код Грин Инжиниринг
+### Frontend Developer — Код Грин Инжиниринг
 
-**Сентябрь 2023 — 2025** (2 года 4 месяца)
+**Сентябрь 2023 — Декабрь 2025** (2 года 4 месяца)
 
 Санкт-Петербург
 
@@ -44,7 +44,7 @@
 
 ---
 
-### Middle Frontend Developer — Coding Team
+### Frontend Developer — Coding Team
 
 **Июль 2021 — Сентябрь 2023** (2 года 3 месяца)
 
@@ -61,7 +61,7 @@
 
 ---
 
-### Junior Frontend Developer — AT-WORK
+### Frontend Developer — AT-WORK
 
 **Сентябрь 2020 — Июль 2021** (11 месяцев)
 
